@@ -1,6 +1,8 @@
 /* #E6E449  - body*/
 /* #E6FA99 - text */
 
+
+
 body {
     background-color: #ebebe9;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -103,4 +105,10 @@ footer {
     background-color: #393E46;
     border-radius: 10px;
     margin-left: 85%;
+}
+
+.Webcontainer{
+   width:100%;
+    min-width:1000px;
+    height: auto;
 }
