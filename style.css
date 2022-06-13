@@ -1,0 +1,106 @@
+/* #E6E449  - body*/
+/* #E6FA99 - text */
+
+body {
+    background-color: #ebebe9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+.image {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    position: relative;
+    left: -500px;
+
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 6rem;
+    padding-bottom: 0;
+    margin-bottom: 2px;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+
+
+input {
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+    padding: 2px 2px;
+    border-color: #a4a4a4;
+}
+
+hr {
+    width: 50%;
+    border-style: dotted;
+    margin-bottom: 50px;
+    color: #a4a4a4;
+    margin-left: 25%;
+}
+
+span {
+    font-weight: 600;
+    font-size: larger;
+}
+
+textarea {
+    font-style: italic;
+    display: inline;
+    font-weight: 600;
+    margin-left: 150px;
+    border-radius: 10px;
+
+}
+
+button {
+    background-color: #a4a4a4;
+    font-weight: 600;
+    border-color: #a4a4a4;
+    margin-bottom: 0;
+    border-radius: 10px;
+    padding: 6px;
+}
+
+h4 {
+    position: relative;
+    right: 270px;
+    bottom: -50px;
+
+}
+
+#button2 {
+
+    position: relative;
+    bottom: 40px;
+}
+
+.decrytion {
+    margin-left: 180px;
+}
+
+.decrypt {
+    right: 215px;
+}
+
+.button3 {
+    position: relative;
+    bottom: 20px;
+}
+
+footer {
+    margin-top: 5%;
+    width: fit-content;
+    padding: 5px 5px;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background-color: #393E46;
+    border-radius: 10px;
+    margin-left: 85%;
+}
